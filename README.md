@@ -13,6 +13,7 @@ TEST SCENARIO 1:-
  Quit the driver after the test is complete
 
 TEST SCENARIO 2:-
+
  Initialize the Selenium driver 
  Open the Selenium Playground
  Click "Drag & Drop Sliders" under "Progress Bars & Sliders"
@@ -23,6 +24,7 @@ TEST SCENARIO 2:-
  Quit the driver after the test is complete
 
 TEST SCENARIO 3:-
+
 Set up the Selenium WebDriver
  1. Open the Selenium Playground page
  Wait for the page to load
