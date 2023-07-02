@@ -1,6 +1,8 @@
 # pdea_subjective
 Here are the steps of Selenium-Js PDEA Subjective assessment
-1:-
+
+
+TEST SCENARIO 1:-
 
   Click "Simple Form Demo" under Input Forms
  Validate that the URL contains "simple-form-demo"
@@ -10,7 +12,7 @@ Here are the steps of Selenium-Js PDEA Subjective assessment
  Validate whether the same text message is displayed in the right-hand panel
  Quit the driver after the test is complete
 
-2:-
+TEST SCENARIO 2:-
  Initialize the Selenium driver 
  Open the Selenium Playground
  Click "Drag & Drop Sliders" under "Progress Bars & Sliders"
@@ -20,8 +22,8 @@ Here are the steps of Selenium-Js PDEA Subjective assessment
  Validate whether the range value shows 95
  Quit the driver after the test is complete
 
-3:-
- Set up the Selenium WebDriver
+TEST SCENARIO 3:-
+Set up the Selenium WebDriver
  1. Open the Selenium Playground page
  Wait for the page to load
  2. Click "Input Form Submit"
